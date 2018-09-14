@@ -1,0 +1,7 @@
+
+
+  eureka:
+    client:
+      registry-fetch-interval-seconds: 0
+      register-with-eureka: false
+      fetch-registry: false
